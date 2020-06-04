@@ -14,12 +14,11 @@
 	# 	"kushagra7176.zip" 						#
 	# (Extract this compressed file to any desired folder) 			#
 	#	Folder Name after extraction: kushagra7176		        #
-	#	|-Code								#
-	#	|	|-EM_GMM_Algorithm.py					#
-	#	|	|-Final_Buoy_Detection.py			       	#
-	#	|	|-Gaussian_Mixture_Model_for_Buoy_Detection.py		#
-        #	|	|-GMM_Generate_Avg_Hist.py				#
-	#	|	|-GMM_Generate_Dataset.py				#
+        # 	|-EM_GMM_Algorithm.py					        #
+	#	|-Final_Buoy_Detection.py			       	        #
+	#	|-Gaussian_Mixture_Model_for_Buoy_Detection.py		        #
+        #	|-GMM_Generate_Avg_Hist.py				        #
+	#	|-GMM_Generate_Dataset.py				        #
 	#	|-Report.pdf							#
 	#	|-README.md							#
 	#	|-DATASET							#
