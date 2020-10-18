@@ -1,4 +1,4 @@
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/kushagra7176/Underwater_Buoy_Detection/blob/master/LICENSE)
 ---
 	#############################################################################################
 	#######        ENPM 673 - Perception for Autonomous Robots                           ########
