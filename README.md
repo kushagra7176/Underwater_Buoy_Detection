@@ -1,4 +1,5 @@
-	[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+---
 	#############################################################################################
 	#######        ENPM 673 - Perception for Autonomous Robots                           ########
 	#######        Authors @Kushagra Agrawal                                             ########
